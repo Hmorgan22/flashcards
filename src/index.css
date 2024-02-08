@@ -37,4 +37,10 @@ form input {
   width: 25%;
   margin-right: 15px;
   margin-bottom: 10px;
+  height: 30px;
+}
+
+form button {
+  width: 5%;
+  height: 30px;
 }

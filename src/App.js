@@ -102,7 +102,6 @@ function SearchBar() {
     setA("");
     setQ("");
   }
-
   return (
     <form onSubmit={handleInput}>
       <input
